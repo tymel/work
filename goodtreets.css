@@ -1,0 +1,19 @@
+<style>
+
+#parent {background: white; display: flex-start; height: 300px; flex-flow:row wrap; justify-content:  space-between;  }
+
+.child { width:  ; height:100px;  }
+
+.child1 {background: black; order: 1;  }
+.child2 {background: black; order: 2;  }
+.child3 {background: black; order: 3;  }
+
+.child4 {background: ; order: 4;  }
+.child5 {background: salmon; order: 5;   }
+.child6 {background: firebrick; order: 6;  }
+
+.child7 {background: yellowgreen; order: 7; }
+.child8 {background: olivedrab; order: 8;  }
+.child9 {background: olive; order: 9; }
+
+</style>
